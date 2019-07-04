@@ -1,0 +1,27 @@
+{
+  "name": "island",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junhagames/island.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junhagames/island/issues"
+  },
+  "homepage": "https://github.com/junhagames/island#readme",
+  "dependencies": {
+    "canvas": "^2.5.0",
+    "datauri": "^2.0.0",
+    "express": "^4.17.1",
+    "jsdom": "^15.1.1",
+    "phaser": "^3.18.1",
+    "socket.io": "^2.2.0"
+  }
+}
