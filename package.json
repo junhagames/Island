@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/junhagames/island#readme",
   "dependencies": {
+    "engines": {
+      "node": "8.12"
+    },
     "canvas": "^2.5.0",
     "datauri": "^2.0.0",
     "express": "^4.17.1",
